@@ -1683,7 +1683,6 @@ low,low,4,2,big,med,unacc
 low,low,4,2,big,high,unacc
 low,low,4,4,small,low,unacc
 low,low,4,4,small,med,acc
-buying,maint,doors,persons,lug_boot,safety,class
 low,low,4,4,small,high,good
 low,low,4,4,med,low,unacc
 low,low,4,4,med,med,good
